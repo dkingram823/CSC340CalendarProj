@@ -191,11 +191,6 @@ namespace IndividualProject
             return eventList;  //return the event list
         }
 
-        public static void writeTo()
-        {
-
-        }
-
         public static String SQLDTformat(DateTime a) //yyyy-MM-dd hh:mm:ss
         {
             String ret;
